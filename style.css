@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(218, 248, 248);
+    margin: 10px 90px 0px 90px;
+
+}
+.banner{
+    background-color: rgb(213, 149, 149);
+    border-radius: 10px;
+    height: 500px;
+    /* padding: 30px; */
+    display: flex;
+}
+.banner-text{
+    padding-left: 100px;
+    width: 50%;
+}
+.banner-player{
+    padding-left: 100px;
+    height: 500px;
+}
+.banner-h1{
+    font-size: 4em;
+}
+.banner-p{
+font-size: 2em;
+}
